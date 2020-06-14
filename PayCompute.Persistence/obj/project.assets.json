@@ -5172,11 +5172,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute.Persistence\\PayCompute.Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute\\PayCompute.Persistence\\PayCompute.Persistence.csproj",
       "projectName": "PayCompute.Persistence",
-      "projectPath": "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute.Persistence\\PayCompute.Persistence.csproj",
+      "projectPath": "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute\\PayCompute.Persistence\\PayCompute.Persistence.csproj",
       "packagesPath": "C:\\Users\\OrdainedBychrist\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute.Persistence\\obj\\",
+      "outputPath": "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute\\PayCompute.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -5196,8 +5196,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute.Entity\\PayCompute.Entity.csproj": {
-              "projectPath": "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute.Entity\\PayCompute.Entity.csproj"
+            "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute\\PayCompute.Entity\\PayCompute.Entity.csproj": {
+              "projectPath": "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute\\PayCompute.Entity\\PayCompute.Entity.csproj"
             }
           }
         }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute.Entity\\PayCompute.Entity.csproj",
+      "projectUniqueName": "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute\\PayCompute.Entity\\PayCompute.Entity.csproj",
       "projectName": "PayCompute.Entity",
-      "projectPath": "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute.Entity\\PayCompute.Entity.csproj",
+      "projectPath": "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute\\PayCompute.Entity\\PayCompute.Entity.csproj",
       "packagesPath": "C:\\Users\\OrdainedBychrist\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute.Entity\\obj\\",
+      "outputPath": "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute\\PayCompute.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

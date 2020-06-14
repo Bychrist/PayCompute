@@ -5469,11 +5469,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute\\PayCompute.csproj",
+      "projectUniqueName": "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute\\PayCompute\\PayCompute.csproj",
       "projectName": "PayCompute",
-      "projectPath": "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute\\PayCompute.csproj",
+      "projectPath": "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute\\PayCompute\\PayCompute.csproj",
       "packagesPath": "C:\\Users\\OrdainedBychrist\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute\\obj\\",
+      "outputPath": "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute\\PayCompute\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -5493,11 +5493,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute.Entity\\PayCompute.Entity.csproj": {
-              "projectPath": "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute.Entity\\PayCompute.Entity.csproj"
+            "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute\\PayCompute.Entity\\PayCompute.Entity.csproj": {
+              "projectPath": "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute\\PayCompute.Entity\\PayCompute.Entity.csproj"
             },
-            "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute.Services\\PayCompute.Services.csproj": {
-              "projectPath": "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute.Services\\PayCompute.Services.csproj"
+            "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute\\PayCompute.Services\\PayCompute.Services.csproj": {
+              "projectPath": "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute\\PayCompute.Services\\PayCompute.Services.csproj"
             }
           }
         }

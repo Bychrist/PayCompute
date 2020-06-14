@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j/F8kN5Twy7ZIwwrzoUVMbDobrPM+T2w2laWIyK8KOfhQvJbKWsSCcfwEnOy92KZKMciSCboZAwFrIgTq2edFw==",
+  "dgSpecHash": "l2tibKBUtCdYCZsTC42TGZpd9zQMoKVqkSfNHuYPuHJRZWe3/UQDxBKXtpqtgn9+s8jhqdSdtkrRytk40qDzjg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute\\PayCompute.csproj",
+  "projectFilePath": "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute\\PayCompute\\PayCompute.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\OrdainedBychrist\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.5\\microsoft.aspnetcore.cryptography.internal.3.1.5.nupkg.sha512",
     "C:\\Users\\OrdainedBychrist\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.5\\microsoft.aspnetcore.cryptography.keyderivation.3.1.5.nupkg.sha512",

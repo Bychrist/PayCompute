@@ -5121,11 +5121,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute.Services\\PayCompute.Services.csproj",
+      "projectUniqueName": "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute\\PayCompute.Services\\PayCompute.Services.csproj",
       "projectName": "PayCompute.Services",
-      "projectPath": "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute.Services\\PayCompute.Services.csproj",
+      "projectPath": "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute\\PayCompute.Services\\PayCompute.Services.csproj",
       "packagesPath": "C:\\Users\\OrdainedBychrist\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute.Services\\obj\\",
+      "outputPath": "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute\\PayCompute.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -5145,11 +5145,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute.Entity\\PayCompute.Entity.csproj": {
-              "projectPath": "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute.Entity\\PayCompute.Entity.csproj"
+            "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute\\PayCompute.Entity\\PayCompute.Entity.csproj": {
+              "projectPath": "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute\\PayCompute.Entity\\PayCompute.Entity.csproj"
             },
-            "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute.Persistence\\PayCompute.Persistence.csproj": {
-              "projectPath": "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute.Persistence\\PayCompute.Persistence.csproj"
+            "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute\\PayCompute.Persistence\\PayCompute.Persistence.csproj": {
+              "projectPath": "C:\\Users\\OrdainedBychrist\\source\\repos\\PayCompute\\PayCompute.Persistence\\PayCompute.Persistence.csproj"
             }
           }
         }
